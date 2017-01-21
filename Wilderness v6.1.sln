@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wilderness v6.1.CSharp.Plugins", "Wilderness v6.1.CSharp.Plugins.csproj", "{F96D190F-772A-3111-D609-D1098941143A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wilderness v6.1.CSharp", "Wilderness v6.1.CSharp.csproj", "{8ADA15F5-343D-14AB-AF1D-769D2FA64A03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wilderness v6.1.CSharp.Editor", "Wilderness v6.1.CSharp.Editor.csproj", "{04D4CB32-89DE-8006-6A07-CDEF3845682F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F96D190F-772A-3111-D609-D1098941143A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96D190F-772A-3111-D609-D1098941143A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96D190F-772A-3111-D609-D1098941143A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96D190F-772A-3111-D609-D1098941143A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ADA15F5-343D-14AB-AF1D-769D2FA64A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ADA15F5-343D-14AB-AF1D-769D2FA64A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ADA15F5-343D-14AB-AF1D-769D2FA64A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ADA15F5-343D-14AB-AF1D-769D2FA64A03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04D4CB32-89DE-8006-6A07-CDEF3845682F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D4CB32-89DE-8006-6A07-CDEF3845682F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D4CB32-89DE-8006-6A07-CDEF3845682F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D4CB32-89DE-8006-6A07-CDEF3845682F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
